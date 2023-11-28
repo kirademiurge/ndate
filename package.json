@@ -1,0 +1,25 @@
+{
+	"name": "@kirademiurge/ndate",
+	"author": "@kirademiurge",
+	"description": "A utility library for working with date and time in TypeScript, providing methods for date manipulation and formatting.",
+	"version": "0.0.1",
+	"keywords": ["date", "time", "typescript", "utility", "formatting"],
+	"license": "MIT",
+	"main": "build/index.js",
+	"module": "build/index.js",
+	"types": "./build/index.d.ts",
+	"exports": "./build/index.js",
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirademiurge/ndate.git"
+  },
+	"bugs": {
+    "url": "https://github.com/kirademiurge/ndate/issues"
+  },
+	"homepage": "https://github.com/kirademiurge/ndate#readme",
+	"devDependencies": {
+		"@types/node": "^20.10.0",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.3.2"
+	}
+}
